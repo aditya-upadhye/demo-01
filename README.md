@@ -1,4 +1,3 @@
 # demo-01
 
-Kavya
-Paramu
+Kaviya Gopi
