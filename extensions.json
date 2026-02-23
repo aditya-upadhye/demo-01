@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-02-23T06:03:06.533Z",
-  "total": 27,
+  "timestamp": "2026-02-23T06:04:44.437Z",
+  "total": 28,
   "extensions": [
     "Dannark.AndroidLauncher",
     "Dart-Code.dart-code",
@@ -28,6 +28,7 @@
     "oderwat.indent-rainbow",
     "qwtel.sqlite-viewer",
     "ritwickdey.LiveServer",
+    "tal7aouy.rainbow-bracket",
     "undefined_publisher.trackmyexts"
   ]
 }
