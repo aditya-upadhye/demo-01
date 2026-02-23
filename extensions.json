@@ -1,5 +1,5 @@
 {
-  "total": 27,
+  "total": 26,
   "extensions": [
     "Dannark.AndroidLauncher",
     "Dart-Code.dart-code",
@@ -13,7 +13,6 @@
     "formulahendry.auto-rename-tag",
     "formulahendry.code-runner",
     "golang.go",
-    "google.gemini-cli-vscode-ide-companion",
     "kisstkondoros.vscode-gutter-preview",
     "mathiasfrohlich.Kotlin",
     "mikeburgh.xml-format",
