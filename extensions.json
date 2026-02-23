@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-02-23T06:33:18.016Z",
-  "total": 27,
+  "timestamp": "2026-02-23T06:44:03.670Z",
+  "total": 25,
   "extensions": [
     "Dannark.AndroidLauncher",
     "Dart-Code.dart-code",
@@ -11,8 +11,6 @@
     "dbaeumer.vscode-eslint",
     "eamodio.gitlens",
     "esbenp.prettier-vscode",
-    "formulahendry.auto-rename-tag",
-    "formulahendry.code-runner",
     "golang.go",
     "google.gemini-cli-vscode-ide-companion",
     "kisstkondoros.vscode-gutter-preview",
