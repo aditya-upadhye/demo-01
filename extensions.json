@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-02-23T06:10:34.869Z",
-  "total": 28,
+  "timestamp": "2026-02-23T06:10:57.013Z",
+  "total": 26,
   "extensions": [
     "Dannark.AndroidLauncher",
     "Dart-Code.dart-code",
@@ -11,7 +11,6 @@
     "dbaeumer.vscode-eslint",
     "eamodio.gitlens",
     "esbenp.prettier-vscode",
-    "formulahendry.auto-rename-tag",
     "formulahendry.code-runner",
     "golang.go",
     "google.gemini-cli-vscode-ide-companion",
@@ -28,7 +27,6 @@
     "oderwat.indent-rainbow",
     "qwtel.sqlite-viewer",
     "ritwickdey.LiveServer",
-    "tal7aouy.rainbow-bracket",
     "undefined_publisher.trackmyexts"
   ]
 }
