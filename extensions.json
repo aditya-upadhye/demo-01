@@ -1,8 +1,7 @@
 {
-  "total": 26,
+  "total": 25,
   "extensions": [
     "Dannark.AndroidLauncher",
-    "Dart-Code.flutter",
     "EliverLara.andromeda",
     "GitHub.copilot-chat",
     "PKief.material-icon-theme",
