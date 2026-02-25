@@ -7,6 +7,7 @@
     "EliverLara.andromeda",
     "GitHub.copilot-chat",
     "PKief.material-icon-theme",
+    "aditya-upadhye.trackmyexts",
     "dbaeumer.vscode-eslint",
     "eamodio.gitlens",
     "esbenp.prettier-vscode",
@@ -26,7 +27,6 @@
     "naumovs.color-highlight",
     "oderwat.indent-rainbow",
     "qwtel.sqlite-viewer",
-    "ritwickdey.LiveServer",
-    "undefined_publisher.trackmyexts"
+    "ritwickdey.LiveServer"
   ]
 }
