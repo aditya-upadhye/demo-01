@@ -1,5 +1,5 @@
 {
-  "total": 27,
+  "total": 26,
   "extensions": [
     "Anthropic.claude-code",
     "Dannark.AndroidLauncher",
@@ -17,7 +17,6 @@
     "golang.go",
     "kisstkondoros.vscode-gutter-preview",
     "mathiasfrohlich.Kotlin",
-    "mikeburgh.xml-format",
     "ms-python.debugpy",
     "ms-python.isort",
     "ms-python.python",
