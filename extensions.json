@@ -1,11 +1,12 @@
 {
-  "total": 25,
+  "total": 26,
   "extensions": [
     "Anthropic.claude-code",
     "Dannark.AndroidLauncher",
     "Dart-Code.dart-code",
     "Dart-Code.flutter",
     "EliverLara.andromeda",
+    "James-Yu.latex-workshop",
     "PKief.material-icon-theme",
     "aditya-upadhye.trackmyexts",
     "dbaeumer.vscode-eslint",
