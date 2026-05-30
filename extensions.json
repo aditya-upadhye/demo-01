@@ -1,5 +1,5 @@
 {
-  "total": 28,
+  "total": 30,
   "extensions": [
     "Anthropic.claude-code",
     "Dannark.AndroidLauncher",
@@ -28,6 +28,8 @@
     "oderwat.indent-rainbow",
     "qwtel.sqlite-viewer",
     "ritwickdey.LiveServer",
-    "swiftlang.swift-vscode"
+    "sweetpad.sweetpad",
+    "swiftlang.swift-vscode",
+    "vadimcn.vscode-lldb"
   ]
 }
