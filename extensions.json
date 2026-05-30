@@ -1,5 +1,5 @@
 {
-  "total": 26,
+  "total": 28,
   "extensions": [
     "Anthropic.claude-code",
     "Dannark.AndroidLauncher",
@@ -16,6 +16,7 @@
     "formulahendry.code-runner",
     "golang.go",
     "kisstkondoros.vscode-gutter-preview",
+    "llvm-vs-code-extensions.lldb-dap",
     "mathiasfrohlich.Kotlin",
     "ms-python.debugpy",
     "ms-python.isort",
@@ -26,6 +27,7 @@
     "naumovs.color-highlight",
     "oderwat.indent-rainbow",
     "qwtel.sqlite-viewer",
-    "ritwickdey.LiveServer"
+    "ritwickdey.LiveServer",
+    "swiftlang.swift-vscode"
   ]
 }
