@@ -1,5 +1,5 @@
 {
-  "total": 30,
+  "total": 33,
   "extensions": [
     "Anthropic.claude-code",
     "Dannark.AndroidLauncher",
@@ -23,6 +23,9 @@
     "ms-python.python",
     "ms-python.vscode-pylance",
     "ms-python.vscode-python-envs",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode.remote-explorer",
     "ms-vsliveshare.vsliveshare",
     "naumovs.color-highlight",
     "oderwat.indent-rainbow",
