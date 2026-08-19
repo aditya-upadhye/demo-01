@@ -1,5 +1,5 @@
 {
-  "total": 32,
+  "total": 33,
   "extensions": [
     "Anthropic.claude-code",
     "Dart-Code.dart-code",
@@ -17,6 +17,7 @@
     "kisstkondoros.vscode-gutter-preview",
     "llvm-vs-code-extensions.lldb-dap",
     "mathiasfrohlich.Kotlin",
+    "ms-azuretools.vscode-containers",
     "ms-python.debugpy",
     "ms-python.isort",
     "ms-python.python",
